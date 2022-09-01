@@ -1,0 +1,45 @@
+Image,Mask,CaseNumber,Grade
+1.nrrd,1-CTV1-label.nrrd,1,1
+2.nrrd,2-CTV_Leito1-label.nrrd,2,1
+3.nrrd,3-CTV-label.nrrd,3,2
+4.nrrd,4-CTV-label.nrrd,4,2
+5.nrrd,5-CTV-label.nrrd,5,1
+6.nrrd,6-CTV1-label.nrrd,6,1
+7.nrrd,7-CTV-label.nrrd,7,1
+8.nrrd,8-CTV-label.nrrd,8,2
+9.nrrd,9-CTV P  VS-label.nrrd,9,1
+10.nrrd,10-CTV leito-label.nrrd,10,1
+11.nrrd,11-CTV-label.nrrd,11,1
+12.nrrd,12-CTV PVS-label.nrrd,12,2
+13.nrrd,13-CTV1-label.nrrd,13,0
+14.nrrd,14-CTV-label.nrrd,14,1
+15.nrrd,15-CTV PVS-label.nrrd,15,1
+16.nrrd,16-CTV-label.nrrd,16,1
+17.nrrd,17-CTV1-label.nrrd,17,2
+18.nrrd,18-CTV-label.nrrd,18,1
+19.nrrd,19-CTV-label.nrrd,19,1
+20.nrrd,20-CTV-label.nrrd,20,2
+21.nrrd,21-CTV-label.nrrd,21,1
+22.nrrd,22-CTV1-label.nrrd,22,1
+23.nrrd,23-CTV-label.nrrd,23,1
+24.nrrd,24-CTV1-label.nrrd,24,1
+25.nrrd,25-CTV-label.nrrd,25,1
+26.nrrd,26-CTV1-label.nrrd,26,0
+27.nrrd,27-CTV1-label.nrrd,27,1
+28.nrrd,28-CTV-label.nrrd,28,1
+29.nrrd,29-CTV1-label.nrrd,29,1
+30.nrrd,30-CTV-label.nrrd,30,1
+31.nrrd,31-CTV-label.nrrd,31,1
+32.nrrd,32-CTV-label.nrrd,32,1
+33.nrrd,33-CTV-label.nrrd,33,2
+34.nrrd,34-CTV PVS-label.nrrd,34,1
+35.nrrd,35-CTV-label.nrrd,35,1
+36.nrrd,36-CTV_t-label.nrrd,36,1
+37.nrrd,37-CTV-label.nrrd,37,2
+38.nrrd,38-CTV-label.nrrd,38,1
+39.nrrd,39-CTV1-label.nrrd,39,1
+40.nrrd,40-CTV leito-label.nrrd,40,2
+41.nrrd,41-CTV1-label.nrrd,41,0
+42.nrrd,42-CTV-label.nrrd,42,1
+43.nrrd,43-CTV PVS-label.nrrd,43,1
+44.nrrd,44-CTV leito-label.nrrd,44,2

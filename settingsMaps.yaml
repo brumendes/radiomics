@@ -1,0 +1,19 @@
+# #############################  Extracted using PyRadiomics version: v3.0.1  ######################################
+
+imageType:
+  Original: {}
+
+featureClass:
+  glcm:
+    - Correlation
+
+setting:
+  binWidth: 64
+  force2D: true
+  label: 1
+
+voxelSetting:
+  kernelRadius: 2
+  maskedKernel: true
+  initValue: nan
+  voxelBatch: 10000
